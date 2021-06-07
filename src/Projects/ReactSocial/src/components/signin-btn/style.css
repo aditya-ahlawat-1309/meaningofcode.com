@@ -1,0 +1,13 @@
+.signInBtn {
+    background-color: black;
+    max-width: 100%;
+    text-align:  center;
+    padding : 8px 16px;
+    border-radius :4px;
+    color: white;
+    font-size:14px;
+    font-weight: 500;
+    cursor: pointer;
+    text-align: center;
+    font-size: 2.5rem;
+}

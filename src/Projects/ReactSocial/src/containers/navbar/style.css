@@ -1,0 +1,22 @@
+.navbar {
+    display : flex;
+    justify-content: space-between;
+    padding: 12px 24px;
+    background-color:black;
+    color: white;
+    
+}
+
+.navbar_img {
+    height: 35px;
+    border-radius:  8px;
+}
+
+
+
+.loginContainer {
+  padding: 0px;
+  
+  box-shadow: 0 50px 70px -20px white;
+  
+}
